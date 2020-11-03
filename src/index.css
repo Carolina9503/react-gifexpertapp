@@ -9,7 +9,7 @@ input{
   font-size: 1.2rem;
   width: 100%;
 }
-.card-grid{
+.card-grid{ 
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
